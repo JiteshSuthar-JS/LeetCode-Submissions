@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
