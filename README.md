@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
