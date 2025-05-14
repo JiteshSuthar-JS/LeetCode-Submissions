@@ -9,16 +9,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -29,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0027-remove-element) |
+| [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
