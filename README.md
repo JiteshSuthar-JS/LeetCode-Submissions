@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
 | [0932-monotonic-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0932-monotonic-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
