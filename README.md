@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0932-monotonic-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0932-monotonic-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
