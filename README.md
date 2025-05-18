@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
