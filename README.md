@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0506-relative-ranks) |
+| [0861-flipping-an-image](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1293-three-consecutive-odds) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0861-flipping-an-image](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -117,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Sliding Window
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0595-big-countries) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
