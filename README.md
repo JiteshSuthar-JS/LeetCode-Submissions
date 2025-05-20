@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0506-relative-ranks) |
+| [0777-toeplitz-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0932-monotonic-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0777-toeplitz-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
