@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0043-multiply-strings](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0043-multiply-strings) |
 | [0742-to-lower-case](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0742-to-lower-case) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
