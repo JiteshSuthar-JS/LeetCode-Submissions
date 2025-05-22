@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3321-type-of-triangle](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0112-path-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
