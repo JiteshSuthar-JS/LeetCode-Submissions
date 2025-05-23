@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0506-relative-ranks) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0043-multiply-strings) |
+| [0242-valid-anagram](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0742-to-lower-case) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
