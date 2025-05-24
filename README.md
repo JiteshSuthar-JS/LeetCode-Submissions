@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1677-matrix-diagonal-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0742-to-lower-case) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
