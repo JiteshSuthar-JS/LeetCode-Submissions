@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0742-to-lower-case](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0742-to-lower-case) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
