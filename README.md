@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0242-valid-anagram) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0043-multiply-strings) |
+| [0205-isomorphic-strings](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0742-to-lower-case) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
