@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0595-big-countries) |
+| [1179-game-play-analysis-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1179-game-play-analysis-i) |
 ## Bit Manipulation
 |  |
 | ------- |
