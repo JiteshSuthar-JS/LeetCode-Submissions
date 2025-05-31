@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0506-relative-ranks) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0506-relative-ranks) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3321-type-of-triangle) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 ## String
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
