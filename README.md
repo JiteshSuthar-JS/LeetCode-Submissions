@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0283-move-zeroes) |
@@ -240,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
