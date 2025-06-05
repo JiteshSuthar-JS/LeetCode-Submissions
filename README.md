@@ -214,10 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0112-path-sum) |
 ## Prefix Sum
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
