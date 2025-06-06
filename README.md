@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Two Pointers
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0742-to-lower-case) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3194-find-words-containing-character) |
