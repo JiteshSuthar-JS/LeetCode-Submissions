@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0742-to-lower-case) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
@@ -278,4 +281,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
