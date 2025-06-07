@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1677-matrix-diagonal-sum) |
+| [2102-find-the-middle-index-in-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2102-find-the-middle-index-in-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2102-find-the-middle-index-in-array) |
 | [3639-zero-array-transformation-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Stack
 |  |
