@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0506-relative-ranks) |
+| [0724-find-pivot-index](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2102-find-the-middle-index-in-array) |
 | [3639-zero-array-transformation-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Stack
