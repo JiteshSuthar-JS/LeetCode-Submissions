@@ -6,7 +6,8 @@ class Solution:
             return -1
             
         c = Counter(sortednum)
-        freq = min(c.items(), key=lambda x: (-x[1], x[0]))[0]
-        return freq
+        max_freq = max(c.values())
+        candidates = [num for num in c if c[num] == max_freq]
+        return min(candidates)
 
             
