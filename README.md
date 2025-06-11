@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1677-matrix-diagonal-sum) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2102-find-the-middle-index-in-array](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2102-find-the-middle-index-in-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0496-next-greater-element-i) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Divide and Conquer
 |  |
 | ------- |
