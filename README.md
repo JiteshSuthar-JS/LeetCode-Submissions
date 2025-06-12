@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -314,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JiteshSuthar-JS/LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
